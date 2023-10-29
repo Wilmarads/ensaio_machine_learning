@@ -46,21 +46,34 @@ Todos os algoritmos de regressão não apresentaram boas métricas de performanc
 # Resultados
 ### Ensaio de Classificação:
 Sobre os dados de treinamento
+
+![classificacao_treinamento](img/classificacao_data_train.png)
  
 Sobre os dados de validação
- 
+
+![classificacao_validacao](img/classificacao_data_val.png)
+
 Sobre os dados de teste
  
+![classificacao_teste](img/classificacao_data_test.png)
 
 ### Ensaio de Regressão:
 Sobre os dados de treinamento
- 
+
+![regressao_treinamento](img/regressao_data_train.png)
+
 Sobre os dados de validação
+
+![regressao_validacao](img/regressao_data_val.png)
  
 Sobre os dados de teste
+
+![regressao_teste](img/regressao_data_test.png)
  
 ### Ensaio de Clusterização:
 6.7 Sobre os dados de treinamento
+
+![clusterizacao](img/clusterizacao.png)
  
 # Conclusões
 Com o ensaio foi possível praticar a manipulação dos parâmetros a fim de encontrar os limiares dos algoritmos para os estados de underfitting e overfitting, conseguindo assim aproximar a experiência de trabalho diário no uso de machine learning pelos cientistas de dados.
